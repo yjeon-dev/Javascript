@@ -1,4 +1,0 @@
-console.log('visual studio code execute');
-var a =5;
-var b =2;
-console.log(a+b);
